@@ -2,7 +2,7 @@
 
 Language types: Python
 
-This repository contains several assignments related to predictive modeling (using machine learning tecniques), data munging, and data visualization throguh Tableau. For the capstone project, my team and I submitted a model to an expired Kaggle competition: the Microsoft Malware Classification Challenge.
+This repository contains several assignments related to predictive modeling (using machine learning tecniques), data munging, and data visualization through Tableau. For the capstone project, my team and I submitted a model to an expired Kaggle competition: the Microsoft Malware Classification Challenge.
 
 ### Core Code_17DEC2021 (Microsoft Malware Classification Challenge Project)
 
