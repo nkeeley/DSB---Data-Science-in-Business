@@ -35,6 +35,10 @@ This is a template file created by the professor (as well as an adapted notebook
 
 This is a template file created by the professor in which we revisted the Carvana dataset with new scoring metrics. Techniques included AUC/ROC evaluation, as well as using a Gini Index and other scoring metrics.
 
+### HospitalDischargeBinary.ipynb
+
+This is a template file created by the professor in which we investigated hospital discharge predictions. Techniques included dimensionality reduction through Principle Component Analysis (PCA), regularized regression/random forests with PCA values, and an introduction to neural networks.
+
 
 
 
